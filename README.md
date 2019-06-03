@@ -1,2 +1,2 @@
 # GitHub
-Mencoba GitHub
+Belajar Mencoba Menggunakan GitHub
