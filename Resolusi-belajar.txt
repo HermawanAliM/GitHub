@@ -4,4 +4,3 @@ RESOLUSI BELAJAR :
   # Statistika
 3. BELAJAR BAHASA PEMROGRAMAN
   # JavaScript
-  # PHP
